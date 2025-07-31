@@ -1,21 +1,20 @@
 # Hi, I'm Iris Carrillo 👋🏼
 
-Frontend Developer @ **Virtud Inc**  
-Focused on building clean, scalable, and responsive user interfaces using modern web technologies.
+### **Frontend Developer**  
+Focused on building **clean, scalable, and responsive user interfaces** with modern web technologies.
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects  
 
-| Type | Project | Description |
-|------|---------|-------------|
-| 🧖‍♀️ Medspa | [Jessica Clinic Demo](https://github.com/irisjc13/jessica-clinic-demo) | Clean, responsive design for a cosmetic medical clinic |
-| 💉 Aesthetics | [Cami Martinez Demo](https://github.com/irisjc13/cami-martinez-demo) | Modern landing page for a medical aesthetics brand |
-| 🏥 Plastic Surgery | [Planmed Demo](https://github.com/irisjc13/planmed-demo) | Promotional website for a Medellín-based clinic |
+| Type   | Project                                             | Description                                                        |
+|--------|-----------------------------------------------------|--------------------------------------------------------------------|
+| 🧖‍♀️ Medspa | [Veronica Spa](https://github.com/irisjc13/vero-spa) | Modern, responsive website for a cosmetic medical clinic           |
+| 📝 EdTech | [Kambaz Quizzes](https://github.com/irisjc13/kambaz-react-web-app) | Interactive quiz platform built with React for student engagement |
 
 ---
 
-### 💼 What I Do
+## 💼 What I Do
 
 - Build responsive, client-first web apps using React & Tailwind  
 - Deliver mobile-friendly layouts and reusable components  
@@ -23,7 +22,7 @@ Focused on building clean, scalable, and responsive user interfaces using modern
 
 ---
 
-### 🛠️ Tech & Tools
+## 🛠️ Tech & Tools
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -32,7 +31,7 @@ Focused on building clean, scalable, and responsive user interfaces using modern
 
 ---
 
-### 🎨 Beyond Tech
+## 🎨 Beyond Tech
 
 - Proud mom 💙  
 - Wegmans cashier — balancing real-world hustle with frontend development  
@@ -40,11 +39,10 @@ Focused on building clean, scalable, and responsive user interfaces using modern
 
 ---
 
-### 📬 Let's Connect
+## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iriscarrillo/)  
-[![Email](https://img.shields.io/badge/Email-irisjc13@gmail.com-red?style=flat-square&logo=gmail)](mailto:carrillo.iris2020@gmail.com)  
-[![Virtud Inc](https://img.shields.io/badge/Virtud-Inc-black?style=flat-square)](https://virtudinc.com)
+[![Email](https://img.shields.io/badge/Email-carrillo.iris2020@gmail.com-red?style=flat-square&logo=gmail)](mailto:carrillo.iris2020@gmail.com)  
 
 ---
 
